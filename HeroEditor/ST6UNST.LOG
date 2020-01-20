@@ -1,0 +1,99 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+CONFIG: Title: "Hero Editor V1.04"
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+*** ERROR: Unable to create a directory named 'C:'
+*** DURING THIS ACTION: CreateDir: "C:"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\Windows\System32\VB6STKIT.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\ASYCFILT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: CreateDir: "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Hero Editor"
+
+ACTION: PrivateFile: "D:\Games\d2+\Editor\HeroEditor\Hero Editor.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\Games\d2+\Editor\HeroEditor\license.txt"
+(File was not found or was an older version -- new file copied)
+
+NOTE: The file 'RICHED32.DLL' was not copied because it is intended for use under Windows 95 only. It is not needed under Windows NT 3.51 or 4.0.
+
+ACTION: SharedFile: "C:\Windows\System32\RICHTX32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Windows\System32\MSSTDFMT.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Windows\System32\TABCTL32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Windows\System32\COMDLG32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Windows\System32\MSCOMCTL.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "D:\Games\d2+\Editor\HeroEditor\Hero Editor.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\Windows\System32\RICHTX32.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSSTDFMT.DLL"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\TABCTL32.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\COMDLG32.OCX"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSCOMCTL.OCX"
+
+ACTION: ShellLink: "Hero Editor", "Hero Editor V1.04"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Hero Editor.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Hero Editor.exe", ""
+

@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Hero Editor license.txt
+-------------------------------------------------------------------------------
+                                  Hero Editor 
+  Copyright © 2010 ZonFire99 of www.ladderhall.com and www.ladderhallrealm.com
+                               All rights reserved
+                       
+                                  LICENSE.TXT
+-------------------------------------------------------------------------------
+
+HERO EDITOR IS FREEWARE AND IS PROVIDED "AS IS" WITHOUT ANY KIND OF WARRANTY. 
+THE AUTHOR OF THIS SOFTWARE MAKES NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, 
+BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR 
+THE WARRANTY OF NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT WILL THE 
+AUTHOR BE LIABLE FOR ANY DAMAGES, DIRECT OR CONSEQUENTIAL, ARISING OUT OF THE 
+USE OR THE INABILITY TO USE THIS SOFTWARE EVEN IF THE AUTHOR HAS BEEN ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGES.
+
+YOU MAY DISTRIBUTE THIS SOFTWARE AS LONG AS YOU DO NOT CHARGE ANY FEE AND YOU DO 
+NOT MODIFY THIS SOFTWARE IN ANY WAY, INCLUDING, BUT NOT LIMITED TO, ADDING, 
+REPLACING OR DELETING FILES.
+
+BY USING THIS SOFTWARE YOU AGREE TO THE ABOVE TERMS.
+
+-------------------------------------------------------------------------------
+ 

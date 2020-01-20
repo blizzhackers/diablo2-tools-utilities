@@ -1,0 +1,5 @@
+regsvr32 -u COMDLG32.OCX
+regsvr32 -u MSCOMCTL.OCX
+regsvr32 -u RICHTX32.OCX
+regsvr32 -u TABCTL32.OCX
+regsvr32 -u MSSTDFMT.DLL
