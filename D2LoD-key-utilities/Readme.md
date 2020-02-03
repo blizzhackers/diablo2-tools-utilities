@@ -10,7 +10,7 @@ Game keysets are stored into these files:
 - d2sfx.mpq (D2 key)
 - d2char.mpq (LoD key)
 
-### [cdkey_viewer](https://github.com/blizzhackers-d2/D2LoD-files/tree/master/D2LoD-key-utilities/cdkey-viewer) = D2LoD cd-key viewer by hypnodok
+### [cdkey_viewer](https://github.com/blizzhackers/D2LoD-files/tree/master/D2LoD-key-utilities/cdkey-viewer) = D2LoD cd-key viewer by hypnodok
 	- Bnclient.dll
 	- BnetLog.txt
 	- cdkey_viewer.exe
@@ -20,12 +20,12 @@ Game keysets are stored into these files:
 	- StormLib.dll
 	- viewer_Readme.txt
 
-###  [defaultkey_changer](https://github.com/blizzhackers-d2/D2LoD-files/tree/master/D2LoD-key-utilities/defaultkey-changer) = D2LoD 26 length default cdkey changer by Serby
+###  [defaultkey_changer](https://github.com/blizzhackers/D2LoD-files/tree/master/D2LoD-key-utilities/defaultkey-changer) = D2LoD 26 length default cdkey changer by Serby
 	- defaultkey_changer_Readme.txt
 	- Installer Tome.mpq
 	- keyChanger26.exe
 
-### [loaderkey_creator](https://github.com/blizzhackers-d2/D2LoD-files/tree/master/D2LoD-key-utilities/loaderkey-creator) = D2LoD 26 length loader keys creator by Serby
+### [loaderkey_creator](https://github.com/blizzhackers/D2LoD-files/tree/master/D2LoD-key-utilities/loaderkey-creator) = D2LoD 26 length loader keys creator by Serby
 	- Installer Tome.mpq
 	- keyCreator26.exe
 	- loaderkey_creator_Readme.txt

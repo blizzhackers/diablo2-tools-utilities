@@ -3,7 +3,7 @@
 ---
 
 - this version doesn't need install.
-- download [HeroEditor104.zip](https://github.com/blizzhackers-d2/D2LoD-files/raw/master/HeroEditor/HeroEditor104.zip) it anywhere you want on your PC.
+- download [HeroEditor104.zip](https://github.com/blizzhackers/D2LoD-files/raw/master/HeroEditor/HeroEditor104.zip) it anywhere you want on your PC.
 - if you get errors about the *.ocx files missing, run **! register_ocx.bat** file
 - before changing the **...\Hero Editor** folder location, run **! unregister_ocx.bat** file
 
