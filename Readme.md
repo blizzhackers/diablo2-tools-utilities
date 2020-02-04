@@ -19,4 +19,7 @@ Diablo II + Lord of Destruction files
 	* [mpq Editor](http://www.zezula.net/en/mpq/download.html)
 
 * [other tools](other/Readme.md#other-tools):
+	* [pixel bot](other/Readme.md#pixel-bot)
 	* [mmBOT](other/Readme.md#mmBOT)
+	* [kukbot](other/Readme.md#kukbot)
+	* [d2mr](other/Readme.md#d2mr)
