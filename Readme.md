@@ -14,7 +14,7 @@ Diablo II + Lord of Destruction files
 
 * other utilities: 
 	* [Plugy](http://plugy.free.fr/en/index.html)
-	* [Diablo 2 version changer](http://versionchanger.d2se.org/)
+	* [Diablo 2 version changer](https://github.com/ChaosMarc/D2VersionChanger/)
 	* [Bliss version switcher](https://www.diabloii.net/forums/threads/bliss-version-switcher.849147/)
 	* [mpq Editor](http://www.zezula.net/en/mpq/download.html)
 
